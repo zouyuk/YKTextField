@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YKTextField'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = 'limit input length for textField'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 Tlimit input length for textField
                        DESC
 
-  s.homepage         = 'https://github.com/zouyuk/YKTextField'
+  s.homepage         = 'https://github.com/zouyuk/YKTextField.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zouyuk' => '461616708@qq.com' }
